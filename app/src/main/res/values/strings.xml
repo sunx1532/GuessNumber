@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="Title">猜数字小游戏</string>
+    <string name="comments">请输入一个0到100之间[0,100)的整数</string>
+    <string name="result">结果</string>
+    <string name="apply">提交</string>
+    <string name="retry">换个数字重新猜</string>
+    <string name="invalid_input">输入的值有误</string>
+</resources>
